@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227065484825",
+    "firebase_url": "https://simplecrudreact-2a7a3.firebaseio.com",
+    "project_id": "simplecrudreact-2a7a3",
+    "storage_bucket": "simplecrudreact-2a7a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227065484825:android:b08eb8912f39b797",
+        "android_client_info": {
+          "package_name": "com.bloodappalt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227065484825-1iurgiss49c7uqtd3ko5nhusbib734im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsM_JWEOhG-uod5dEGKJsRnFOuaLNI5Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227065484825-1iurgiss49c7uqtd3ko5nhusbib734im.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
